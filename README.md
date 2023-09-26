@@ -1,13 +1,8 @@
 # firstwebsite
 new website!
-<!DOCTYPE html>
 <html>
 <head>
-  <style>
-body {
-  background-image: url('img_girl.jpg');
-}
-</style>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 <img src="https://media.tenor.com/meWMu0BLLEAAAAAd/aesthetic-sunset.gif">
