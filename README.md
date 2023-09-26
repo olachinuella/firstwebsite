@@ -4,10 +4,9 @@ new website!
 <html>
 <head>
 <style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
+<body> {background-color: #FBCCB2;}
 </style>
 </head>
-<body>
+</style>
+</body>
 
