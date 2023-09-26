@@ -1,2 +1,5 @@
 # firstwebsite
-my kick start into learning website design!
+new website!
+<body>
+background color: FBCCB2
+</body>
