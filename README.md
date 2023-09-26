@@ -4,8 +4,7 @@ new website!
 <html>
 <head>
 <body>
-background-color: #f6f6f6;
-Ad/aesthetic-sunset.gif">
+<https://media.tenor.com/meWMu0BLLEAAAAAd/aesthetic-sunset.gif">
 </head>
 </body>
 
