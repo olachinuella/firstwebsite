@@ -5,9 +5,8 @@ new website!
 <head>
 <style>
 <body>
-  <img src="pic_trulli.jpg" alt="Italian Trulli">
+  <img src="https://media.tenor.com/meWMu0BLLEAAAAAd/aesthetic-sunset.gif">
 </style>
 </head>
-</style>
 </body>
 
