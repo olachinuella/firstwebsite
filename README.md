@@ -4,7 +4,8 @@ new website!
 <html>
 <head>
 <style>
-<body> {background-color: #FBCCB2;}
+<body>
+  <img src="pic_trulli.jpg" alt="Italian Trulli">
 </style>
 </head>
 </style>
