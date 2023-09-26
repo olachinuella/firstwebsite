@@ -1,3 +1,3 @@
 # firstwebsite
 new website!
-<body style="background-color:#FBCCB2">
+body {background-color: #DBF9FC;}
