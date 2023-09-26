@@ -4,7 +4,12 @@ new website!
 <html>
 <head>
 <body>
-<https://media.tenor.com/meWMu0BLLEAAAAAd/aesthetic-sunset.gif">
+  <style>
+body {
+  background-image: url('img_girl.jpg');
+}
+</style>
+<img src="https://media.tenor.com/meWMu0BLLEAAAAAd/aesthetic-sunset.gif">
 </head>
 </body>
 
